@@ -1,6 +1,6 @@
 # cache-size
 
-> Get a [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)&#39;s size, useful when working with Service Workers
+> Get a [Cache](https://developer.mozilla.org/en-US/docs/Web/API/Cache)'s size, useful when working with Service Workers
 
 
 ## Install
