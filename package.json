@@ -1,0 +1,22 @@
+{
+	"name": "cache-size",
+	"version": "0.0.0",
+	"description": "Get a Cache&#39;s size, useful when working with Service Workers",
+	"license": "MIT",
+	"repository": "fgilio/cache-size",
+	"author": {
+		"name": "Franco Gilio",
+		"email": "franco.gilio@gmail.com",
+		"url": "https://fgilio.com"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"cache",
+		"service worker",
+		"pwa"
+	],
+	"dependencies": {},
+	"devDependencies": {}
+}
