@@ -13,7 +13,7 @@ $ npm install cache-size
 ## Usage
 
 ```js
-import cacheSize from 'cacheSize';
+import cacheSize from 'cache-size';
 
 cacheSize('static-assets');
 //=> 12327273
