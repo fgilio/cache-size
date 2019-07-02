@@ -1,6 +1,6 @@
 {
 	"name": "cache-size",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Get a Cache's size, useful when working with Service Workers",
 	"license": "MIT",
 	"repository": "fgilio/cache-size",
