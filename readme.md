@@ -16,7 +16,7 @@ $ npm install cache-size
 import cacheSize from 'cache-size';
 
 cacheSize('static-assets');
-//=> 12327273
+//=> 12327273 the space used by the entire cache in bytes
 ```
 
 
